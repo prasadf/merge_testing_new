@@ -4,3 +4,7 @@ import time
 time.sleep(1)
 print(f"Hello World!, the time is {time.time(1)}")
 time.sleep(1)
+
+print("Yahoo")
+print("Google")
+print("Hotmail")
