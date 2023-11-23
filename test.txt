@@ -1,5 +1,3 @@
-Hello World!
-
-Prasad Fernando
-
-Colombo Sri Lanka
+print("Yahoo Business")
+print("Google Docs")
+print("Microsoft Word")
