@@ -1,3 +1,3 @@
-print("Yahoo Email")
-print("Goole Docs")
-print("Microsft Word")
+print("Yahoo Business")
+print("Google Docs")
+print("Microsoft Word")
